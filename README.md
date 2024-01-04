@@ -13,4 +13,6 @@ Test Class: CookieLogAnalyzerApplicationTests
 Usage:
 To run the application, execute the generated JAR file with the appropriate command-line arguments. For example:
 
-``` java -jar CookieLogAnalyzer-0.0.1-SNAPSHOT.jar -f /path/to/your/cookie_log.csv -d 2023-12-23
+```bash
+java -jar CookieLogAnalyzer-0.0.1-SNAPSHOT.jar -f /path/to/your/cookie_log.csv -d 2023-12-23
+```
